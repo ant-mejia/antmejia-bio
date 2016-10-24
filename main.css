@@ -124,6 +124,9 @@ nav a:hover {
     width: 100%;
     margin-top: 50%;
     position: absolute;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
 }
 
 
